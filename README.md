@@ -9,4 +9,5 @@ Depository contains scripts used for sequence identification using Machine learn
   usage:python3 kmerGappyV4.py \<input_file\> \<value of L\> \<value of K\> \<value of M\>. 
   This will generate .csv file of sparse matrix, which contain kmer frequencies. This .csv file can also be used with WEKA GUI interface. 
   
+  For any issues contact: bioinf2305@gmail.com or rajamdade@gmail.com. 
   
